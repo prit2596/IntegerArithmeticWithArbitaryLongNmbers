@@ -6,18 +6,12 @@ import java.util.HashSet;
 import java.util.Stack;
 
 /**
- *     Team No: 39
- *     @author Pranita Hatte: prh170230
- *     @author Prit Thakkar: pvt170000
- *     @author Shivani Thakkar: sdt170030
- *     @author Yash Pradhan: ypp170130
- *     Long Project 1: Num - To Perform Integer arithmetic with arbitrarily large numbers
+ *     @author Pranita Hatte
+ *     @author Prit Thakkar
+ *     @author Shivani Thakkar
+ *     @author Yash Pradhan
+ *     
  *
- *     Updates from Previous Submission 1:
- *     >> Updated comments
- *     >> Changed default base to 1000000000
- *     >> Modified toString(), used StringBuilder
- *     >> Modified product(a,b) to use quadraticMultiplication instead of Karatsuba Multiplication
  */
 
 public class Num implements Comparable<Num>{
