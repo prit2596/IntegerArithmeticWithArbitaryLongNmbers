@@ -1,12 +1,10 @@
 package ypp170130;
 
 /**
- *     Team No: 39
- *     @author Pranita Hatte: prh170230
- *     @author Prit Thakkar: pvt170000
- *     @author Shivani Thakkar: sdt170030
- *     @author Yash Pradhan: ypp170130
- *     Long Project 1: Num - To Perform Integer arithmetic with arbitrarily large numbers
+ *     @author Pranita Hatte
+ *     @author Prit Thakkar
+ *     @author Shivani Thakkar
+ *     @author Yash Pradhan
  *
  * 	Custom exception class BaseMismatchException,
  * 	for methods like add, subtract, product, divide etc.

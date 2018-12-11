@@ -4,9 +4,9 @@ Integer arithmetic with arbitrarily large numbers
 
 ## Project Description
 
-In this project, a program that implements arithmetic with large integers, of arbitrary size is developed. The program works for any base arithmetic operations.
+In this project, a program that implements arithmetic with large integers, of arbitrary size is developed. The program works for any base arithmetic operations. The program also convert infix to postfix expressions.
 
-The arithmetic operations are as follows: add, subtract, divide, product, power, mod, squareroot and base conversion.
+The arithmetic operations are as follows: add, subtract, divide, product, power, mod, squareroot and base conversion. Various algorithms like like Shunting Yard, Karatsuba Multiplication, Binary Search are implemented in this project.
 
 ## Getting Started
 
